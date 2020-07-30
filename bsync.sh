@@ -1,0 +1,1 @@
+browser-sync start -s events/src -f "events/src" -b "chromium" --no-notify
